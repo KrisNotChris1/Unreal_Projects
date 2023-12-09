@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Levels/MainLevel.umap",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/Player.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/MyGameMode.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/Car.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Tree/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Tree/TEX_Tree.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Coin/TEX_Coin.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Car/TEX_Car.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Coin/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Car/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Player/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Flag/TEX_Flag.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Flag/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Ground/TEX_Tile_Ground.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Road/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Road/TEX_Tile_Road.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Ground/palette.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Player/TEX_Player.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Car/Car.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Coin/Coin.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Flag/Flag.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Ground/Tile_Ground.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Player/Player.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Road/Tile_Road.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Models/Tree/Tree.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/EndFlag.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/Coin.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/ScoreUI.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/EndScreenUI.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/MainMenuUI.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Levels/MainMenu.umap",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/PauseMenuUI.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/MainMenuGameMode.uasset",
+				"C:/Users/kriso/Documents/Unreal Projects/ArcadeGame/Content/Blueprints/OptionsMenUI.uasset"
+			]
+		}
+	]
+}
